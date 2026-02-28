@@ -28,5 +28,3 @@ Das Resultat der Daten-Pipeline zeigt einen klaren, messbaren Aufwärtstrend der
 
 ![Power BI Dashboard](dashboard/dashboard_screenshot.png)
 
----
-*Erstellt im Rahmen einer akademischen Data Science Case Study.*
