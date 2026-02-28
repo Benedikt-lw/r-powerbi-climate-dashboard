@@ -18,7 +18,7 @@
 ## 📄 Detaillierte Projektdokumentation
 
 Eine ausführliche, chronologische Projektdokumentation (inklusive Lösungsansätzen für Datensilos, Erklärungen zum Code und kritischer Reflexion zur visuellen Wahrnehmung) befindet sich im Projektordner:
-👉 **[Zur PDF-Dokumentation](docs/Dokumentation - Projektverlauf.pdf)**
+👉 **[Zur PDF-Dokumentation](docs/Dokumentation_Projektverlauf.pdf)**
 
 ---
 
